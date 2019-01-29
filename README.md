@@ -27,20 +27,3 @@ class clazz
 
 ###### 6
 [百度]("https://wwww.baidu.com")
-
-####### 7
-第一列|第二列|第三列
----|:-:|---:
-1|2|3
-4|5|6
-
-######## 8
-```flow
-st=>start:start
-op=>operation:my operation
-cond=>condition:yes or no ?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->e
-&```
